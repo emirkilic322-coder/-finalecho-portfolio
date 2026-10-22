@@ -60,3 +60,19 @@ FinalEcho is a software development project. Features and functionality may chan
 Developer: Emir Kılıç
 Project: FinalEcho
 Framework: Flutter
+## App Screenshots
+
+### Home Screen
+![FinalEcho Home](IMG_8919.jpg)
+
+### Language Selection
+![Language Selection](IMG_8920.jpg)
+
+### Unsaid Messages
+![Unsaid Messages](IMG_8921.jpg)
+
+### Legacy Messages
+![Legacy Messages](IMG_8922.jpg)
+
+### Future Me
+![Future Me](IMG_8923.PNG)
