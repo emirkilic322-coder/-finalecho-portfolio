@@ -63,16 +63,12 @@ Framework: Flutter
 ## App Screenshots
 
 ### Home Screen
-![FinalEcho Home](IMG_8919.jpg)
-
+![FinalEcho Home](IMG_8922.jpg)
 ### Language Selection
-![Language Selection](IMG_8920.jpg)
-
+![Language Selection](IMG_8923.PNG)
 ### Unsaid Messages
-![Unsaid Messages](IMG_8921.jpg)
-
+![Unsaid Messages](IMG_8919.jpg)
 ### Legacy Messages
-![Legacy Messages](IMG_8922.jpg)
-
+![Legacy Messages](IMG_8920.jpg)
 ### Future Me
-![Future Me](IMG_8923.PNG)
+![Future Me](IMG_8921.jpg)
